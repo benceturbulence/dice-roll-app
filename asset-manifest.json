@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dice-roll-app/static/css/main.2ffaeede.css",
+    "main.js": "/dice-roll-app/static/js/main.5cb17179.js",
+    "static/js/787.9b475eb2.chunk.js": "/dice-roll-app/static/js/787.9b475eb2.chunk.js",
+    "static/media/dices_footer.png": "/dice-roll-app/static/media/dices_footer.03f2172fa4a14c03af4d.png",
+    "static/media/close.png": "/dice-roll-app/static/media/close.59d68e1659c4a9f4c39f.png",
+    "static/media/marble.jpg": "/dice-roll-app/static/media/marble.4089208c6c2c5fdbbdc5.jpg",
+    "index.html": "/dice-roll-app/index.html",
+    "main.2ffaeede.css.map": "/dice-roll-app/static/css/main.2ffaeede.css.map",
+    "main.5cb17179.js.map": "/dice-roll-app/static/js/main.5cb17179.js.map",
+    "787.9b475eb2.chunk.js.map": "/dice-roll-app/static/js/787.9b475eb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ffaeede.css",
+    "static/js/main.5cb17179.js"
+  ]
+}
